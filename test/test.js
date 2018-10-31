@@ -1,4 +1,4 @@
-var steam = require("steam"),
+var steam = require("fb-steam"),
 	dota2 = require("../"),
 	steamClient = new steam.SteamClient(),
 	steamUser = new steam.SteamUser(steamClient),

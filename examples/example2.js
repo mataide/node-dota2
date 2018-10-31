@@ -1,4 +1,4 @@
-var steam = require("steam"),
+var steam = require("fb-steam"),
     util = require("util"),
     fs = require("fs"),
     crypto = require("crypto"),

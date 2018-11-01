@@ -10,7 +10,7 @@
  * @see {@link https://www.npmjs.com/package/long|long} npm package
  */
 
-const steam = require("fb-steam");
+const steam = require("pk-steam");
 const { createLogger, format, transports } = require('winston');
 
 const DOTA_APP_ID = 570;

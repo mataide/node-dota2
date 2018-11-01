@@ -1,11 +1,11 @@
 {
   "name": "pk-dota2",
-  "version": "6.2.0",
+  "version": "6.2.4",
   "dependencies": {
     "deferred": "^0.7.9",
-    "fb-steam": "^1.4.1",
     "long": "^4.0.0",
     "merge": "^1.2.0",
+    "pk-steam": "^1.4.2",
     "protobufjs": "^6.8.8",
     "winston": "^3.1.0"
   },
